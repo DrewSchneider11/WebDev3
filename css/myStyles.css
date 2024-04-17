@@ -1,0 +1,20 @@
+.LC{font-style: italic;}
+
+body{
+    background-color: gainsboro
+}
+
+.youTube{
+    color: red;
+    font-family: sans-serif
+}
+
+.tableu{
+    color: green;
+    font-family: sans-serif
+}
+
+.leftmenuFont{
+    font-size: 10px;
+    text-overflow: clip
+}
